@@ -1,0 +1,20 @@
+name: Enforce standalone audio publication policy
+on:
+  push:
+  pull_request:
+jobs:
+  check-standalone-audio:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - name: Reject separately distributed music/audio files
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git ls-files | grep -Ei '\.(wav|mp3|flac|aif|aiff|m4a|aac|ogg|wma|opus)$'; then
+            echo "::error::Standalone audio files are not approved for this public repository. Publish finished MP4s with the owner's audio embedded instead."
+            exit 1
+          fi
+          echo "PASS: No standalone audio tracks are tracked."
