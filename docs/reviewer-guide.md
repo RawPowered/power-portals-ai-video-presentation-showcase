@@ -2,7 +2,7 @@
 
 ## Start with the outcome
 
-Watch the [selected 1:54 film](../media/versions/31.mp4), then read the [case study](case-study.md). GitHub may download the MP4 rather than play it in the file viewer; open it locally to watch.
+Watch the [selected 1:54 film](../media/versions/31.mp4), then read the [case study](case-study.md).
 
 ## Inspect the judgement
 

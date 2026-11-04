@@ -6,7 +6,7 @@ The public final film is an exact copy of the selected archived export. The fram
 
 The selected feedback was transcribed from the project conversation. It is not a complete chat export, and no per-message timestamps are invented. The critique rationale was written after production. It is editorial analysis, not hidden model reasoning or a contemporaneous quote.
 
-Historical production checks establish runtime, resolution, frame count, baseline/position consistency, source music identity and absence of clipping. The public packaging check establishes local links, hashes and the included asset list. Neither establishes sales uplift or audience comprehension.
+Historical production checks establish runtime, resolution, frame count, baseline/position consistency, source music identity and absence of clipping. These checks establish production properties rather than sales uplift or audience comprehension.
 
 ## Product and demonstration limits
 

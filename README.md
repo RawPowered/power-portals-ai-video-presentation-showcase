@@ -27,7 +27,6 @@
   <a href="media/versions/04.mp4">Compare the 28-second early animatic</a>
 </p>
 
-*The preview above links to the actual film. GitHub may offer the MP4 as a download. The [showcase page source](index.html) includes embedded players and interactive concept studies; it can be viewed locally using the instructions below.*
 
 ## The process, made visible
 
@@ -35,8 +34,8 @@ The important work was deciding **what to change, why it mattered and what to pr
 
 | 35 documented stages | 24 rendered iterations | 17 critique studies |
 |:---:|:---:|:---:|
-| From brief and captures to final edit | Historical export identities preserved | Before/after frames, direction and trade-offs |
-| [Follow the timeline](docs/process-timeline.md) | [Inspect the stage ledger](evidence/stage-ledger.json) | [Browse the collection](docs/critique-index.md) |
+| From brief and captures to final edit | Visual and editorial refinements | Before/after frames, direction and trade-offs |
+| [Follow the timeline](docs/process-timeline.md) | [Explore the creative decisions](docs/case-study.md) | [Browse the collection](docs/critique-index.md) |
 
 ### Four decisions that shaped the result
 
@@ -81,21 +80,10 @@ The reusable review loop:
 The public selection includes **two original MP4s, 17 critique boards, 34 source-frame extracts and four silent motion excerpts**. The boards use retrospective annotations on authentic archived frames. Selected feedback is transcribed from the project conversation; it is not a complete timestamped chat export.
 
 - **[Media identities](evidence/public-asset-manifest.json):** SHA-256 checksums for the selected assets.
-- **[Final export record](docs/publish-final-render.md):** Exact file identity, runtime, resolution and publication status.
-- **[Publication check](evidence/publication-verification.json):** Link, media identity, frame-provenance and audio-policy checks.
+- **[Final presentation](docs/final-presentation.md):** The selected cut, story structure and closing decisions.
 - **[Evidence and attribution](docs/evidence-and-attribution.md):** What was recorded, illustrated and verified.
 
 Some product scenes use illustrative tasks, fictional people and an unsent reply. This portfolio demonstrates design judgement and implementation checks; it does not claim measured sales uplift, independent viewer testing or universal CRM/API compatibility. The full production archive and account records remain private.
-
-## View the interactive showcase locally
-
-Open [index.html](index.html) from a downloaded copy, or run this command in the repository folder and visit `http://localhost:8000`:
-
-```bash
-python -m http.server 8000
-```
-
-The page includes the final film, early animatic, all 17 critique boards, silent motion previews and four clearly labeled interactive reconstructions. No build or external service is required.
 
 ---
 

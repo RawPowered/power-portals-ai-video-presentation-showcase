@@ -18,7 +18,7 @@ The public showcase is a portfolio presentation, not an open-source or Creative 
 - Four silent video-derived GIF excerpts, selected phase strips and public case-study documentation.
 - The existing public-site HTML, CSS, JavaScript and interactive concept studies.
 
-The [public asset manifest](evidence/public-asset-manifest.json) records the newly selected assets and their SHA-256 identities. The [original excerpt register](assets/archive/README.md) preserves the earlier publication record. The final film transfer is complete; no standalone audio is included.
+The [public asset manifest](evidence/public-asset-manifest.json) records the newly selected assets and their SHA-256 identities. The [original excerpt register](assets/archive/README.md) preserves the earlier publication record. The soundtrack is included only within the finished videos.
 
 ## Publication boundaries
 
@@ -28,7 +28,7 @@ The [public asset manifest](evidence/public-asset-manifest.json) records the new
 
 **Also excluded:** Raw customer/account screenshots, personal contact details, authentication sessions, credentials, confidential operating records, unpublished internal system materials and third-party assets without applicable rights. Illustrative task assignees in critique 12 are fictional.
 
-Automated repository checks aim to reject committed standalone audio formats, but reviewers still must inspect every proposed publication. A legal/brand license or technical performance certification is not implied.
+Public display does not grant permission to reuse the music or project assets.
 
 ## Human / AI contribution
 
