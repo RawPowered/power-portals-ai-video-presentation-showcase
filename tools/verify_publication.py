@@ -70,7 +70,7 @@ def verify():
     assert sha(final) == historical['sha256']
     assert not errors, '\n'.join(errors)
     report = dict(status='passed',document_links_checked=checked,selected_media_hashes_verified=len(manifest['assets']),critique_cases=len(cases),frame_provenance_records=34,documented_stages=len(stages),historical_render_identities=len(render_hashes),final_video_bytes=final.stat().st_size,final_video_sha256=sha(final),standalone_audio_files=0,credential_candidates=0,image_integrity='passed')
-    (ROOT/'evidence/publication-verification.json').write_text(json.dumps(report,indent=2)+'\n',encoding='utf8')
+    (ROOT/'evidence/publication-verification.json').write_text(json.dumps(report,indent=2)+'\n',encoding='utf8',newline='\n')
     print(json.dumps(report,indent=2))
 
 if __name__ == '__main__': verify()
