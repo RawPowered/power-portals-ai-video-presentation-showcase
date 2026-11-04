@@ -1,0 +1,8 @@
+{
+  "source_stage": "22",
+  "source_filename": "PowerPortals-Dot-Match-108s-1080p60.mp4",
+  "source_sha256": "94994af7c6d12317fb6834e076815338d4f19a77e66bfd5dbb35e08ba35117bd",
+  "time_seconds": 34.7,
+  "method": "FFmpeg frame extraction; no product pixels reconstructed",
+  "frame_sha256": "a6a515ebde389700bbc179a9e0d1263e9ff6d994f9d03737e12f0b6577f9cead"
+}

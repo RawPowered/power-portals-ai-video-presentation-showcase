@@ -1,0 +1,8 @@
+{
+  "source_stage": "20",
+  "source_filename": "PowerPortals-County-Connections-93s-1080p60.mp4",
+  "source_sha256": "fd66665df3e1dc45f03d89158235b6c6e01b6d29b975ab77467306ece35413c8",
+  "time_seconds": 49.2,
+  "method": "FFmpeg frame extraction; no product pixels reconstructed",
+  "frame_sha256": "9a17200134a4afc4d93efa0166ac77fd1f18217032017e8eaa54830505a922c8"
+}

@@ -1,0 +1,285 @@
+{
+  "scope": "Summary of 35 project stage folders; 24 had primary presentation renders. Full history remains in the private production archive. No private repository links or raw capture artifacts are required to review this showcase.",
+  "stages": [
+    {
+      "stage": "00",
+      "title": "Brief and evidence inventory",
+      "type": "Plan",
+      "decision": "Define seven business goals, audit current footage and separate capability claims from captured proof.",
+      "render_duration_seconds": null,
+      "source_render_sha256": null
+    },
+    {
+      "stage": "01",
+      "title": "Existing portal references",
+      "type": "Reference",
+      "decision": "Identify fictional/fixture-based local demonstrations as layout material, not live integration proof.",
+      "render_duration_seconds": null,
+      "source_render_sha256": null
+    },
+    {
+      "stage": "02",
+      "title": "Live capture and take selection",
+      "type": "Capture",
+      "decision": "Record 17 takes and separate 12 editing candidates from five diagnostics/duplicates; retain native resolution and draft-state limits.",
+      "render_duration_seconds": null,
+      "source_render_sha256": null
+    },
+    {
+      "stage": "03",
+      "title": "Early audio staging",
+      "type": "Workspace",
+      "decision": "Prepare an audio working area; presence of a folder does not establish a finished mix.",
+      "render_duration_seconds": null,
+      "source_render_sha256": null
+    },
+    {
+      "stage": "03-storyboard-v2",
+      "title": "Capture-led storyboard revision",
+      "type": "Plan",
+      "decision": "Repair flow and continuity before editing; preserve distinctions between different demonstration jobs.",
+      "render_duration_seconds": null,
+      "source_render_sha256": null
+    },
+    {
+      "stage": "04",
+      "title": "Edit workspace",
+      "type": "Workspace",
+      "decision": "Reserve editing structure; not a separately rendered version.",
+      "render_duration_seconds": null,
+      "source_render_sha256": null
+    },
+    {
+      "stage": "04",
+      "title": "Problem-first intro animatic",
+      "type": "Prototype",
+      "decision": "Explore fragmented systems, logins and fit before building the product reveal.",
+      "render_duration_seconds": 28.0,
+      "source_render_sha256": "c5454fb61b38713e70ad7b539918cd0de084c857c8f2e42bb0b0614e38c5ead7"
+    },
+    {
+      "stage": "05",
+      "title": "Export workspace",
+      "type": "Workspace",
+      "decision": "Reserve output structure; not a separately rendered version.",
+      "render_duration_seconds": null,
+      "source_render_sha256": null
+    },
+    {
+      "stage": "05",
+      "title": "Light-theme motion concept",
+      "type": "Prototype",
+      "decision": "Establish navy, orange and light backgrounds with clean typography.",
+      "render_duration_seconds": 40.0,
+      "source_render_sha256": "ef103907103d0a5fddf783fdd411c7a3105dfd711a09c5ee528ac21c18fbeb08"
+    },
+    {
+      "stage": "06",
+      "title": "Brand consistency and surface polish",
+      "type": "Superseded direction",
+      "decision": "Standardize PowerPortals naming and reduce visual roughness.",
+      "render_duration_seconds": 40.0,
+      "source_render_sha256": "7034db1a766d91e3577a1f55a987c2f24c107b5861c064058f2475e7985b0c46"
+    },
+    {
+      "stage": "07",
+      "title": "Progressive opening and retiming",
+      "type": "Corrective iteration",
+      "decision": "Give the first points time to appear; reclaim time from slower later feature introductions.",
+      "render_duration_seconds": 40.0,
+      "source_render_sha256": "51f66456c954b91807a529a749897799ef8ae217c716e98e709daa610912df4a"
+    },
+    {
+      "stage": "08",
+      "title": "First television-style pass",
+      "type": "Superseded direction",
+      "decision": "Move toward commercial rhythm, but retain layouts later rejected as too boxed.",
+      "render_duration_seconds": 40.0,
+      "source_render_sha256": "1077d682beef7f26b1fe3157b7774167294c8150dfc5ca065239d63ce7f19a07"
+    },
+    {
+      "stage": "09",
+      "title": "Unboxed commercial composition",
+      "type": "Direction selected",
+      "decision": "Put free-standing words and a single orange motion accent front and center.",
+      "render_duration_seconds": 40.0,
+      "source_render_sha256": "5cb78466f6d6df9be877760fd6caa6b09457a1fc716e8701d6fe621596c6a01c"
+    },
+    {
+      "stage": "10",
+      "title": "Motion and positioning pass",
+      "type": "Corrective iteration",
+      "decision": "Smooth the dot, improve text placement and preserve centered platform pairing.",
+      "render_duration_seconds": 40.0,
+      "source_render_sha256": "c171eaaa706dae0cb4cf59700cab95a3fb07bd18127502a93e388b3a0091e43e"
+    },
+    {
+      "stage": "11",
+      "title": "Sound and restrained depth",
+      "type": "Iteration",
+      "decision": "Time fewer effects to visual events; add subtle reveal depth and a logo-focused finish.",
+      "render_duration_seconds": 40.0,
+      "source_render_sha256": "44b3eeb8b827015f24eb373aa0aa6338e382649788e6ca71ba6add1140b54f94"
+    },
+    {
+      "stage": "12",
+      "title": "Messaging efficiency review",
+      "type": "Plan",
+      "decision": "Identify a 19-second problem setup in a 40-second cut and propose earlier product definition and proof.",
+      "render_duration_seconds": null,
+      "source_render_sha256": null
+    },
+    {
+      "stage": "13",
+      "title": "CEO audience critique",
+      "type": "Plan",
+      "decision": "Frame value for a buyer who may not know why connected portals matter.",
+      "render_duration_seconds": null,
+      "source_render_sha256": null
+    },
+    {
+      "stage": "14",
+      "title": "CEO-oriented cut",
+      "type": "Superseded direction",
+      "decision": "Show a qualified invitation and clear audience relevance instead of relying on generic verbs alone.",
+      "render_duration_seconds": 40.0,
+      "source_render_sha256": "ee97174ca6fdfbdde8750ee98462a9f15f851c66339da5dd75b4afb00a72fffa"
+    },
+    {
+      "stage": "15",
+      "title": "Interaction capture specification",
+      "type": "Plan",
+      "decision": "Specify blank-to-value typing, real intermediate keystrokes, deliberate scrolling and readable result holds.",
+      "render_duration_seconds": null,
+      "source_render_sha256": null
+    },
+    {
+      "stage": "16",
+      "title": "Recorded interaction cut",
+      "type": "Corrective outtake source",
+      "decision": "Add live capture proof; the short duration still crowds reading and movement.",
+      "render_duration_seconds": 40.0,
+      "source_render_sha256": "0f6a53959aca9428f46466881f77f9c93b1e21ef45171bbfa6b6ba662fccbe02"
+    },
+    {
+      "stage": "17",
+      "title": "Longer capture-led cut",
+      "type": "Superseded direction",
+      "decision": "Increase runtime for calmer demonstrations and keep captions short.",
+      "render_duration_seconds": 60.0,
+      "source_render_sha256": "dcbbbed45759136925d86d0c021ffafd7056c5f544b33d9b57ae8d88982935f8"
+    },
+    {
+      "stage": "18",
+      "title": "Visual workflow and full BOM",
+      "type": "Direction selected",
+      "decision": "Replace text-only automation explanation with a growing trigger/action graph; simplify material tracking into a coherent calculation.",
+      "render_duration_seconds": 60.0,
+      "source_render_sha256": "902491422bd7ddd0e40365f1ae3fc3436e41d8c05e6f67780a43257ee66cf371"
+    },
+    {
+      "stage": "19",
+      "title": "Ownership and completion",
+      "type": "Direction selected",
+      "decision": "Assign illustrated people to tasks, show responsibility and carry progress to 100 percent.",
+      "render_duration_seconds": 72.0,
+      "source_render_sha256": "8ba2f037fada7ca0fe6d937a492761d54b3509863db0721effff60c83632a739"
+    },
+    {
+      "stage": "20",
+      "title": "County and organization structure",
+      "type": "Audience-mismatch outtake",
+      "decision": "Expand county records into a connected role/deal/customer map; Harris County is later replaced for the Florida audience.",
+      "render_duration_seconds": 93.0,
+      "source_render_sha256": "fd66665df3e1dc45f03d89158235b6c6e01b6d29b975ab77467306ece35413c8"
+    },
+    {
+      "stage": "21",
+      "title": "Florida relevance and role intro",
+      "type": "Direction selected",
+      "decision": "Feature Hillsborough and its contact fields; preserve One while Project flips into Portal for Each Role.",
+      "render_duration_seconds": 108.0,
+      "source_render_sha256": "2811cf434e25be9681f301ba630c910790783e0220e0e3ae3679c47a9dc53dd4"
+    },
+    {
+      "stage": "22",
+      "title": "Dot endpoint continuity",
+      "type": "Intermediate solution",
+      "decision": "Make an expanding circle return to the following scene's dot; later simplify the remaining detour into a direct slash.",
+      "render_duration_seconds": 108.0,
+      "source_render_sha256": "94994af7c6d12317fb6834e076815338d4f19a77e66bfd5dbb35e08ba35117bd"
+    },
+    {
+      "stage": "23",
+      "title": "Completion, cost and service handoffs",
+      "type": "Direction selected",
+      "decision": "Fill the check, gather the orange price, fold county fields together and demonstrate opening/replying from the team workspace.",
+      "render_duration_seconds": 108.0,
+      "source_render_sha256": "f61c2a3a96af8aa0f12ce281bc17ebfdc74967f088c370fce395a0ee6e8955d9"
+    },
+    {
+      "stage": "24",
+      "title": "Text baseline and raster quality",
+      "type": "Corrective iteration",
+      "decision": "Use shared alphabetic baselines, consistent column edges and one glyph source while text scales.",
+      "render_duration_seconds": 108.0,
+      "source_render_sha256": "f52450756dc9d684bae095c364dd9335315456db0c1f8dd53fdb2773e6862294"
+    },
+    {
+      "stage": "25",
+      "title": "Faster ramps and connected transitions",
+      "type": "Corrective iteration",
+      "decision": "Reduce 108 seconds to 103.25, gather county text into its icon and round the workflow triangle into the reply-composer dot.",
+      "render_duration_seconds": 103.25,
+      "source_render_sha256": "4882635151cabe3b1e872510f06f36d3c9ab8cce6592216b6c1eb279e6c32e51"
+    },
+    {
+      "stage": "26",
+      "title": "Direct circle-to-slash reveal",
+      "type": "Direction selected",
+      "decision": "Remove the tiny-dot detour and residual perspective drift; settle the slash at about 13 seconds.",
+      "render_duration_seconds": 103.25,
+      "source_render_sha256": "17ec967f6759d972756a854fc453af7d4e752e0278dfa986005fabadba17dd27"
+    },
+    {
+      "stage": "27",
+      "title": "Generalize the structure label",
+      "type": "Direction selected",
+      "decision": "Keep Hillsborough in the example but use County in the broader organization map.",
+      "render_duration_seconds": 103.25,
+      "source_render_sha256": "b7ab2da18a815cf33b29c005a52b81cca705d3e982662a8f6059b0620a365f3d"
+    },
+    {
+      "stage": "28",
+      "title": "Benefit-led V2 plan",
+      "type": "Plan",
+      "decision": "Translate feature names into problems and payoffs, plan industry flips and readable disclosure sequencing.",
+      "render_duration_seconds": null,
+      "source_render_sha256": null
+    },
+    {
+      "stage": "29",
+      "title": "Benefit-led V2 and industry ending",
+      "type": "Superseded audio/closing treatment",
+      "decision": "Preserve the established style while adding trade adaptability, a new score and an extended disclosure ending.",
+      "render_duration_seconds": 134.0,
+      "source_render_sha256": "4027125a1b1db5313fc46543a0f254a97cea959b0b17310e267eb7dffb204e83"
+    },
+    {
+      "stage": "30",
+      "title": "Owner-supplied soundtrack",
+      "type": "Direction selected",
+      "decision": "Use the supplied WAV as the sole music bed, separate individual effects and preserve the full song.",
+      "render_duration_seconds": 134.566667,
+      "source_render_sha256": "e976493e4f3c8ebc5b4c809c6aacebc132cace2f6690ce405cb6d9418a14e52f"
+    },
+    {
+      "stage": "31",
+      "title": "Short branded close",
+      "type": "Current selected cut",
+      "decision": "Move disclosure to a five-second small footer, remove the large CTA and shorten the same track by ten bars.",
+      "render_duration_seconds": 114.0,
+      "source_render_sha256": "fd6c1efe63f169d659c1321fe4c2a7f30a408ad6a8e8aefa688421353273ea37"
+    }
+  ]
+}

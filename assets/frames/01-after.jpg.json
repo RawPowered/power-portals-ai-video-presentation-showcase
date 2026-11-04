@@ -1,0 +1,8 @@
+{
+  "source_stage": "09",
+  "source_filename": "PowerPortals-Center-Stage-40s-1080p60.mp4",
+  "source_sha256": "5cb78466f6d6df9be877760fd6caa6b09457a1fc716e8701d6fe621596c6a01c",
+  "time_seconds": 27,
+  "method": "FFmpeg frame extraction; no product pixels reconstructed",
+  "frame_sha256": "1d2a58807ea047d5d1be6aeee45fdd3acf801d5c8e92b9a94b468748de20bf76"
+}

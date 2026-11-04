@@ -1,0 +1,8 @@
+{
+  "source_stage": "25",
+  "source_filename": "PowerPortals-Final-Timing-1080p60.mp4",
+  "source_sha256": "4882635151cabe3b1e872510f06f36d3c9ab8cce6592216b6c1eb279e6c32e51",
+  "time_seconds": 54.95,
+  "method": "FFmpeg frame extraction; no product pixels reconstructed",
+  "frame_sha256": "dc7617dd7050e88246ac3e782e186b7397209b1013d186bfb79b017b48596965"
+}

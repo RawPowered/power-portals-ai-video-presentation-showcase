@@ -1,0 +1,8 @@
+{
+  "source_stage": "06",
+  "source_filename": "PowerPortals-Polished-40s-1080p60.mp4",
+  "source_sha256": "7034db1a766d91e3577a1f55a987c2f24c107b5861c064058f2475e7985b0c46",
+  "time_seconds": 1.8,
+  "method": "FFmpeg frame extraction; no product pixels reconstructed",
+  "frame_sha256": "2d05926df0b0e73782aa6c4e2a137193de76d2ef651ea155d915c8f9840e5b49"
+}

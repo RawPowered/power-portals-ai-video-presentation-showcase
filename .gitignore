@@ -17,3 +17,9 @@
 *.key
 *.pem
 __pycache__/
+
+# Local review artifacts
+output/playwright/
+.playwright-cli/
+.tooling/
+*.pyc

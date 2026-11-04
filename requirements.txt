@@ -1,0 +1,2 @@
+# Optional local publication verification: python tools/verify_publication.py
+Pillow==12.2.0

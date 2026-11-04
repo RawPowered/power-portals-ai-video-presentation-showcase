@@ -1,0 +1,8 @@
+{
+  "source_stage": "23",
+  "source_filename": "PowerPortals-Final-Flow-108s-1080p60.mp4",
+  "source_sha256": "f61c2a3a96af8aa0f12ce281bc17ebfdc74967f088c370fce395a0ee6e8955d9",
+  "time_seconds": 4.95,
+  "method": "FFmpeg frame extraction; no product pixels reconstructed",
+  "frame_sha256": "37deb2105ecf483c7595da0fb7e71d48182b4de508d8f6d3c7c28d1ca5743d49"
+}

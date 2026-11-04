@@ -1,0 +1,8 @@
+{
+  "source_stage": "19",
+  "source_filename": "PowerPortals-Ownership-72s-1080p60.mp4",
+  "source_sha256": "8ba2f037fada7ca0fe6d937a492761d54b3509863db0721effff60c83632a739",
+  "time_seconds": 22.2,
+  "method": "FFmpeg frame extraction; no product pixels reconstructed",
+  "frame_sha256": "26bb4944c02c617cd5da1e4eb34a2a36418e7f55d0d05f8a9d6551f4db28aec1"
+}

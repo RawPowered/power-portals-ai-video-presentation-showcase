@@ -1,0 +1,8 @@
+{
+  "source_stage": "08",
+  "source_filename": "PowerPortals-TV-40s-1080p60.mp4",
+  "source_sha256": "1077d682beef7f26b1fe3157b7774167294c8150dfc5ca065239d63ce7f19a07",
+  "time_seconds": 27,
+  "method": "FFmpeg frame extraction; no product pixels reconstructed",
+  "frame_sha256": "5c29bdec41f386b44f81b179e0b943403ee1fa83569fcccf0bfa2422b4b69a3a"
+}

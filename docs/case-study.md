@@ -50,7 +50,7 @@ The private repository documents 35 numbered stage folders, 24 video exports and
 
 ## Other documented production choices
 
-The private critique record also addresses typography baselines, visual continuity between tasks and handoffs, regional relevance, industry adaptability, sound-source provenance, and closing disclosure. The selected final export (still in the private repository) is recorded as **114 seconds, 1920 × 1080, 60 fps**, with a five-second compact footer. Its shortened disclosure is an acknowledged readability trade-off, not evidence of better legal or comprehension outcomes.
+The private critique record also addresses typography baselines, visual continuity between tasks and handoffs, regional relevance, industry adaptability, sound-source provenance, and closing disclosure. The selected final export (now included in this public repository) is recorded as **114 seconds, 1920 × 1080, 60 fps**, with a five-second compact footer. Its shortened disclosure is an acknowledged readability trade-off, not evidence of better legal or comprehension outcomes.
 
 ## Outcomes and evidence limits
 
@@ -58,8 +58,10 @@ What the archive supports: iterative human critique, documented revision intent,
 
 What it does **not** support: measured conversion or sales lift, proven cross-platform API compatibility, independent formal evaluation of design quality, or proof that every displayed simulated workflow ran in production.
 
-**Public evidence note:** The homepage includes [the genuine 28-second stage-04 render](../index.html#original-video) and [four annotated critique boards and four silent original motion excerpts](../index.html#archive) with [source hashes](../assets/archive/README.md). The four separate interactive concept studies remain new abstractions, **not** original footage.
+**Public evidence note:** The homepage features [the selected 114-second final film](../index.html#original-video), [the early 28-second animatic](../index.html#early-video), and [all 17 annotated critique studies](critique-index.md). The collection includes 34 authentic source frames, extraction provenance, motion-phase strips and four silent motion excerpts. The separate interactive concept studies are new abstractions, not original footage.
 
 ## Publication approach
 
-The stage-04 MP4, four specific critique boards and four silent animations are included as original source examples. The project owner has authorized the finished 114-second video with its embedded owner-produced *Steady Progress* soundtrack for public display. The final render remains unpublished because the connected GitHub binary retrieval interface did not return its file contents, not because the music lacks clearance. The project owner's standalone WAV and MP3 music exports must not be published. Raw captures and internal production/account material remain excluded. The portfolio demonstrates identifying communication problems, giving bounded directions, reviewing changes and documenting limits.
+The final MP4 is copied byte-for-byte from the selected archived export. Its embedded owner-produced *Steady Progress* soundtrack is authorized for public display. Separate WAV, MP3 and other audio files remain excluded. The earlier render, existing source examples and interactive concept studies are retained. Raw captures and internal account records stay private.
+
+[Production timeline](process-timeline.md) · [AI design-tutor method](design-tutor-method.md) · [Feedback patterns](feedback-patterns.md) · [Asset identities](../evidence/public-asset-manifest.json)

@@ -1,0 +1,8 @@
+{
+  "source_stage": "27",
+  "source_filename": "PowerPortals-County-Label-1080p60.mp4",
+  "source_sha256": "b7ab2da18a815cf33b29c005a52b81cca705d3e982662a8f6059b0620a365f3d",
+  "time_seconds": 22.4,
+  "method": "FFmpeg frame extraction; no product pixels reconstructed",
+  "frame_sha256": "846b552bb0af9c24e657e42f006738233459d93d6d2a391f7ca2e1570de538ba"
+}

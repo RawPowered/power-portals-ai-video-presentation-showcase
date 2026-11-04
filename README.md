@@ -1,76 +1,107 @@
-# PowerPortals — AI-Directed Video Presentation Showcase
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Direct the AI. Defend the design. PowerPortals — an AI design tutor case study by Joseph Edwards / RawPowered. 17 critiques, 24 rendered iterations, one selected final film.">
+</p>
 
-**A public case study showcasing original rendered video, production evidence, human creative direction, and AI-assisted implementation.**  
-By **RawPowered** · Archived project: **November 2026**
+<p align="center">
+  <strong>Human creative direction · AI-assisted production · Evidence you can inspect</strong><br>
+  A complex contractor-workflow platform, shaped into a focused visual story.
+</p>
 
-[**Open the interactive showcase**](index.html) · [Case study](docs/case-study.md) · [Design-review method](docs/design-review-method.md) · [Publication boundaries](RIGHTS.md)
+<p align="center">
+  <a href="media/versions/31.mp4"><strong>Watch the final film</strong></a> &nbsp; / &nbsp;
+  <a href="docs/critique-index.md"><strong>Explore 17 critiques</strong></a> &nbsp; / &nbsp;
+  <a href="docs/case-study.md"><strong>Read the case study</strong></a>
+</p>
 
-> **What you are viewing:** An authentic original 28-second introductory MP4, four annotated critique boards, four silent video-derived GIFs, and supplementary interactive design studies. The interactive browser studies are reconstructions; the archived media is genuine.
+---
 
-## Project in one minute
+## The finished presentation
 
-The assignment evolved from explaining a contractor-workflow platform to directing an audience-focused commercial presentation. Human direction and AI-assisted production were combined in a cycle of **brief → render → critique → bounded revision → verification**.
+**PowerPortals brings project work, material costs, automation and customer communication into one connected story.** The design challenge was to make that value understandable at playback speed: few words, visible behavior and purposeful transitions.
 
-The private production record contains **35 numbered stages, 24 primary video exports, and 17 annotated critique studies**. Those figures describe the archived process, not 35 completed films or independent usability studies. The selected final cut is approximately **114 seconds** and uses an owner-produced soundtrack. The owner has explicitly authorized publication of finished MP4s with embedded music; transferring the final file remains pending due to a GitHub connector limit, **not** a rights limitation.
+[![Watch the complete final PowerPortals presentation — 1 minute 54 seconds](assets/final-poster.jpg)](media/versions/31.mp4)
 
-### Original rendered video
+<p align="center">
+  <strong>1:54 · 1920 × 1080 · 60fps · Original music &amp; individual effects</strong><br>
+  <a href="media/versions/31.mp4">Open or download the complete final MP4</a> ·
+  <a href="media/versions/04.mp4">Compare the 28-second early animatic</a>
+</p>
 
-**[Watch the actual stage-04 introduction animatic (28 seconds)](index.html#original-video)** · [Open original MP4](media/versions/04.mp4). This archived render is preserved byte-for-byte from the private repository (`media/versions/04.mp4`, Git blob `d2f0730977198e0a8b00629a5952a8e562015151`). It is an early silent concept, not the 114-second final selection. Finished videos may include the owner-owned soundtrack; standalone source audio is not published.
+*The preview above links to the actual film. GitHub may offer the MP4 as a download. The [showcase page source](index.html) includes embedded players and interactive concept studies; it can be viewed locally using the instructions below.*
 
-## Actual source-work examples
+## The process, made visible
 
-The [original-work gallery](index.html#archive) displays [layout critique 01](assets/archive/critique-01.png), [workflow critique 03](assets/archive/critique-03.png), [motion critique 10](assets/archive/critique-10.png), and [messaging critique 12](assets/archive/critique-12.png). It also includes original silent excerpts of the [direct slash](assets/archive/direct-slash.gif), [workflow build](assets/archive/workflow-build.gif), [industry flips](assets/archive/industry-flips.gif), and [completion handoff](assets/archive/completion-handoff.gif). The [source register](assets/archive/README.md) records matching private/public blob hashes.
+The important work was deciding **what to change, why it mattered and what to preserve**. Each critique connects the feedback to authentic render frames, a specific revision and a reason the earlier treatment was superseded or retained.
 
-## What the public showcase demonstrates
+| 35 documented stages | 24 rendered iterations | 17 critique studies |
+|:---:|:---:|:---:|
+| From brief and captures to final edit | Historical export identities preserved | Before/after frames, direction and trade-offs |
+| [Follow the timeline](docs/process-timeline.md) | [Inspect the stage ledger](evidence/stage-ledger.json) | [Browse the collection](docs/critique-index.md) |
 
-| Decision | Problem identified | Direction given | What the new illustration communicates |
-| --- | --- | --- | --- |
-| Make the brief observable | Boxed layouts fought a TV-style presentation | One large focal idea, open space, short reading holds | Visual hierarchy at playback speed |
-| Show cause, not a label | An automation configuration screen required inference | Introduce the trigger first, then reveal actions sequentially | Causality and information pacing |
-| Remove unnecessary motion | A technically matched dot still took a distracting detour | Transform directly into the destination slash | Motion continuity and attention economy |
-| Lead with buyer outcomes | Feature headings described screens, not business value | Pair recognizable problems with concise payoffs | Benefit-led communication |
+### Four decisions that shaped the result
 
-## Why this is a design-direction portfolio
+| **01 / Give the idea room** | **03 / Show what happens** |
+|:---|:---|
+| [![Critique 01: boxed layout versus open typography](assets/critiques/01.png)](docs/critiques/01.md) | [![Critique 03: configuration view versus a growing workflow](assets/critiques/03.png)](docs/critiques/03.md) |
+| **Problem:** The layout still felt boxed.<br>**Direction:** Large type, open space and one focal accent.<br>[Read the composition decision →](docs/critiques/01.md) | **Problem:** A label left the behavior unexplained.<br>**Direction:** Start with a trigger, then build the branches.<br>[Read the automation decision →](docs/critiques/03.md) |
+| **10 / Remove the motion detour** | **12 / Lead with the buyer’s payoff** |
+| [![Critique 10: tiny dot versus a direct brand-slash transformation](assets/critiques/10.png)](docs/critiques/10.md) | [![Critique 12: feature wording versus benefit-led messaging](assets/critiques/12.png)](docs/critiques/12.md) |
+| **Problem:** A matched transition still took too much travel.<br>**Direction:** Contract directly into the destination slash.<br>[Read the continuity decision →](docs/critiques/10.md) | **Problem:** Feature names described screens rather than value.<br>**Direction:** “Who owns this?” → “Every task. An owner.”<br>[Read the messaging decision →](docs/critiques/12.md) |
 
-The notable work was not simply producing more versions. It was turning reactions such as “too boxed” or “not smooth enough” into reviewable constraints: focal position, typography baseline, onset timing, path simplification, demonstration accuracy, and source-of-truth distinctions.
+**[Explore all 17 annotated studies →](docs/critique-index.md)**
 
-**Human direction:** Brief, target audience, design critique, audience relevance, revision selection, soundtrack choice, final trade-offs.  
-**AI assistance:** Storyboarding, graphics and motion implementation, media processing, documentation, and validation support.
+### See the decisions move
 
-This is a process case study, **not** a claim of independent third-party evaluation, exclusively manual animation, commercial performance lift, or live integration certification.
+| Trigger → actions | Circle → brand slash |
+|:---:|:---:|
+| ![Silent original workflow-building animation](assets/motion/workflow-build.gif) | ![Silent original circle-to-slash animation](assets/motion/direct-slash.gif) |
+| Reveal cause and effect in sequence. | Keep one focal object and a direct destination. |
 
-## Explore
+These are silent excerpts from original rendered versions. [Industry flips](assets/motion/industry-flips.gif), [completion handoff](assets/motion/completion-handoff.gif) and multi-phase strips provide further motion evidence. A still or phase strip alone does not establish playback timing.
 
-- **[Original rendered MP4](index.html#original-video):** Authentic 28-second early introduction animatic.
-- **[Original-work gallery](index.html#archive):** Four authentic source critique boards and four silent original motion excerpts.
-- **[Interactive concept studies](index.html#study):** Lightweight, keyboard-accessible reconstructions with play/pause and scene selection.
-- **[Case study](docs/case-study.md):** Project problem, decisions, iterations, results, and limitations.
-- **[Design-review method](docs/design-review-method.md):** A reusable critique format and sample feedback contracts.
-- **[Rights and publication policy](RIGHTS.md):** Finished MP4s with embedded owner-owned audio are allowed. Separate WAV/MP3 audio releases remain prohibited.
-- **[Publish the final render](docs/publish-final-render.md):** Exact source file and repository upload instructions for the original 114-second video.
+## My contribution
 
-## Run locally
+**Joseph Edwards / RawPowered — creative direction and evaluation.** I defined the buyer and message, reviewed successive outputs, chose the visual direction, supplied the music, and turned broad reactions into bounded instructions about timing, alignment, motion and demonstration accuracy.
 
-Open `index.html` in a modern browser. No build, package manager, CDN, authentication, tracking, or network connection is required.
+**AI assistance — production and documentation.** The assistant supported storyboarding, animation and layout implementation, media processing, rendering, verification and retrospective case-study assembly.
 
-Alternatively, from the repository root:
+The reusable review loop:
+
+**Observe → Diagnose → Specify → Compare → Verify → Explain the trade-off.**
+
+| What to explore | What it demonstrates |
+|---|---|
+| [AI design-tutor method](docs/design-tutor-method.md) | Turning a critique into a teachable, reviewable instruction |
+| [Feedback patterns](docs/feedback-patterns.md) | Moving from “make it smoother” to precise motion and timing constraints |
+| [Case study](docs/case-study.md) | The brief, audience, creative decisions, result and limitations |
+| [Two-minute reviewer guide](docs/reviewer-guide.md) | A short route through the strongest evidence |
+
+## Evidence you can check
+
+The public selection includes **two original MP4s, 17 critique boards, 34 source-frame extracts and four silent motion excerpts**. The boards use retrospective annotations on authentic archived frames. Selected feedback is transcribed from the project conversation; it is not a complete timestamped chat export.
+
+- **[Media identities](evidence/public-asset-manifest.json):** SHA-256 checksums for the selected assets.
+- **[Final export record](docs/publish-final-render.md):** Exact file identity, runtime, resolution and publication status.
+- **[Publication check](evidence/publication-verification.json):** Link, media identity, frame-provenance and audio-policy checks.
+- **[Evidence and attribution](docs/evidence-and-attribution.md):** What was recorded, illustrated and verified.
+
+Some product scenes use illustrative tasks, fictional people and an unsent reply. This portfolio demonstrates design judgement and implementation checks; it does not claim measured sales uplift, independent viewer testing or universal CRM/API compatibility. The full production archive and account records remain private.
+
+## View the interactive showcase locally
+
+Open [index.html](index.html) from a downloaded copy, or run this command in the repository folder and visit `http://localhost:8000`:
 
 ```bash
 python -m http.server 8000
 ```
 
-Then open `http://localhost:8000`. The site may also be served as a static GitHub Pages site if Pages is enabled for the repository.
+The page includes the final film, early animatic, all 17 critique boards, silent motion previews and four clearly labeled interactive reconstructions. No build or external service is required.
 
-## Evidence discipline and limitations
+---
 
-- The complete production record remains **private**; one original early MP4 plus the eight explicitly documented source excerpts have been published.
-- Interactive scenes here are **new conceptual illustrations**, not original export files or before/after proof.
-- Fictional interface elements convey design principles; they do not establish operational functionality.
-- No raw client captures, account records, internal scripts, production manifests, customer addresses, credentials, or original soundtrack are included.
-- No measured viewer-comprehension gain, sales uplift, ROI, or universal API compatibility is claimed.
-- **Audio ownership confirmed by project owner:** The *Steady Progress* music was produced by the owner. Its inclusion within finished videos is authorized. Standalone audio files (including WAV and MP3) must not be published.
-- **Unpublished media:** The 114-second final MP4 has not been transferred; a large-file retrieval limit in the connected GitHub interface prevented the copy. The existing public 28-second MP4 is authentic.
+<p align="center">
+  <strong>AI-assisted production. Human-directed judgement.</strong><br>
+  © 2026 RawPowered · <a href="RIGHTS.md">Rights &amp; publication policy</a>
+</p>
 
-**Publication principle:** Publish the original video work and reviewed visual evidence with clear provenance and attribution, without releasing separate soundtrack files or raw production/account records.
-
-© 2026 RawPowered. Project and brand rights reserved. See [RIGHTS.md](RIGHTS.md) for scope and reuse restrictions.
+The owner authorizes public display of the finished videos with synchronized music. Standalone music files are excluded. Public availability does not grant a license to extract, reuse or redistribute the soundtrack or project assets.

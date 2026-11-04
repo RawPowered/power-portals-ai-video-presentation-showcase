@@ -1,0 +1,8 @@
+{
+  "source_stage": "26",
+  "source_filename": "PowerPortals-Direct-Slash-1080p60.mp4",
+  "source_sha256": "17ec967f6759d972756a854fc453af7d4e752e0278dfa986005fabadba17dd27",
+  "time_seconds": 64,
+  "method": "FFmpeg frame extraction; no product pixels reconstructed",
+  "frame_sha256": "5b14f2ea4c3be4f79dbfdf2b401bb9cbfdc0841419762e8fb430939e987f89e8"
+}

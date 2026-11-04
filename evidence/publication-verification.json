@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "document_links_checked": 358,
+  "selected_media_hashes_verified": 63,
+  "critique_cases": 17,
+  "frame_provenance_records": 34,
+  "documented_stages": 35,
+  "historical_render_identities": 24,
+  "final_video_bytes": 15441620,
+  "final_video_sha256": "fd6c1efe63f169d659c1321fe4c2a7f30a408ad6a8e8aefa688421353273ea37",
+  "standalone_audio_files": 0,
+  "credential_candidates": 0,
+  "image_integrity": "passed"
+}

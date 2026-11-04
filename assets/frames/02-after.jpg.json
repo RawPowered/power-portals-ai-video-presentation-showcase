@@ -1,0 +1,8 @@
+{
+  "source_stage": "07",
+  "source_filename": "PowerPortals-Progressive-40s-1080p60.mp4",
+  "source_sha256": "51f66456c954b91807a529a749897799ef8ae217c716e98e709daa610912df4a",
+  "time_seconds": 2.2,
+  "method": "FFmpeg frame extraction; no product pixels reconstructed",
+  "frame_sha256": "38a7eefdd7cd16284d6ca5d94a16dfc77c57eddb8b340f88b29d4fc26f208440"
+}

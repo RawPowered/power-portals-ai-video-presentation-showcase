@@ -1,0 +1,8 @@
+{
+  "source_stage": "31",
+  "source_filename": "PowerPortals-V2-Short-Disclaimer-1080p60.mp4",
+  "source_sha256": "fd6c1efe63f169d659c1321fe4c2a7f30a408ad6a8e8aefa688421353273ea37",
+  "time_seconds": 111,
+  "method": "FFmpeg frame extraction; no product pixels reconstructed",
+  "frame_sha256": "f739339c06ee6312872901ad7334f683c7f679a235676704533edd156f72e795"
+}

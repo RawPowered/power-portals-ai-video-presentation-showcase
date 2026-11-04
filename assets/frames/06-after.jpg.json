@@ -1,0 +1,8 @@
+{
+  "source_stage": "21",
+  "source_filename": "PowerPortals-Florida-Role-Intro-108s-1080p60.mp4",
+  "source_sha256": "2811cf434e25be9681f301ba630c910790783e0220e0e3ae3679c47a9dc53dd4",
+  "time_seconds": 58.7,
+  "method": "FFmpeg frame extraction; no product pixels reconstructed",
+  "frame_sha256": "48acd759ae77e77fdc1e580335b192db6a1046faea8525a10f8bfcefd364117d"
+}

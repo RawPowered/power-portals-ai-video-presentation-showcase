@@ -1,0 +1,135 @@
+{
+  "provenance": "Selected verbatim excerpts transcribed from the project conversation. IDs are topic references, not message sequence numbers. This is not a full chat export and exact per-message timestamps are unavailable.",
+  "entries": [
+    {
+      "id": "F02",
+      "topic": "Opening pace",
+      "quote": "The first features that are displayed need time to appear on screen in a similar way, slowed down and go from invisible to visible per point."
+    },
+    {
+      "id": "F03",
+      "topic": "Commercial direction",
+      "quote": "TV commercials do not use boxed/block displays. They put things front and center with animations and transitions"
+    },
+    {
+      "id": "F04",
+      "topic": "Motion polish",
+      "quote": "The next polish will need to focus exclusively on the movements and animation smoothness"
+    },
+    {
+      "id": "F05",
+      "topic": "Text placement",
+      "quote": "some text centering on the WordPress and Zoho portion of the video was not well centered"
+    },
+    {
+      "id": "F06",
+      "topic": "Recorded proof",
+      "quote": "I'd like the money to be typed in from blank to value placed, and scrolling"
+    },
+    {
+      "id": "F08",
+      "topic": "TV copy",
+      "quote": "We also need to never show a wall of text to read, keep it TV friendly, big focus, only a few words at a time"
+    },
+    {
+      "id": "F09",
+      "topic": "Automation proof",
+      "quote": "have it start with the Trigger (use a real example), and then zoom out as you add branches"
+    },
+    {
+      "id": "F10",
+      "topic": "Ownership",
+      "quote": "it would also be good to show people getting assigned to tasks visually, so it shows that ownership is controllable and communicates clear separation of responsibilities."
+    },
+    {
+      "id": "F11",
+      "topic": "Audience relevance",
+      "quote": "the person I am presenting to will be in Florida. We can use a Florida county we can better showcase. Hillsborough County is the easiest and most recognizable example."
+    },
+    {
+      "id": "F12",
+      "topic": "Completion handoff",
+      "quote": "the 100% job complete is a jump cut, I would like to use the orange check mark icon, fill it in, and have it be the transition focal point"
+    },
+    {
+      "id": "F13",
+      "topic": "Task timing",
+      "quote": "Between ~0:22 - ~0:31 that layout of task assignment and task animation can be sped up."
+    },
+    {
+      "id": "F14",
+      "topic": "Direct reveal",
+      "quote": "Instead of it becoming a small orange circle, I want it to shrink down and take the shape of the PowerPortals orange slash"
+    },
+    {
+      "id": "F15",
+      "topic": "General relationship",
+      "quote": "I would like to make it so it says just \"County\" when it hits this stage"
+    },
+    {
+      "id": "F16",
+      "topic": "Benefit copy",
+      "quote": "make the language/words on the slides problem to solution, benefit driven"
+    },
+    {
+      "id": "F17",
+      "topic": "Preserve versions",
+      "quote": "Make this as a v2 of the video, same everything, different filename"
+    },
+    {
+      "id": "F18",
+      "topic": "Audio perception",
+      "quote": "It feels like the music may have gotten blended."
+    },
+    {
+      "id": "F19",
+      "topic": "Supplied music",
+      "quote": "I am providing a fresh Mp3 track to use, and then you place the individual sound effects. WAV or MP3, it is the same song."
+    },
+    {
+      "id": "F20",
+      "topic": "Attention budget",
+      "quote": "Leave it on screen for about 5 seconds and then transition out."
+    },
+    {
+      "id": "F21",
+      "topic": "Final copy direction",
+      "quote": "let's just leave it at \"ready to adopt to anything with an API\" so it's more open ended."
+    },
+    {
+      "id": "F22",
+      "topic": "Triangle-to-composer handoff",
+      "quote": "Between ~1:27 - ~1:29 the triangle should shrink back down and round back out into an orange dot and land on an orange dot space. Animate the dot to become the reply box, and then follow through with the remaining orange text box shrink animation back out to a dot."
+    },
+    {
+      "id": "F23",
+      "topic": "County text gathering",
+      "quote": "At ~0:58 to ~1:00 mark for the animation of the text that currently fades out, I would like it to merge into the top icon and change orange on it's way to the orange icon along with the rest of the words to complete the transition, keep only what keeps the animation transition smooth here."
+    },
+    {
+      "id": "F24",
+      "topic": "County field grouping",
+      "quote": "We can shorten the animation frames for the Hillsborough animation by showing all data (phone, etc) in one thing that folds out downward, similar to the animations showing the BOM list."
+    },
+    {
+      "id": "F25",
+      "topic": "Alignment review",
+      "quote": "Now let's run through an animation and alignment on text and make sure our animation transitions are smooth and timely"
+    },
+    {
+      "id": "F26",
+      "topic": "Industry ending",
+      "quote": "and have Solar in Orange, and have it flip through different industries it is ready to serve"
+    },
+    {
+      "id": "F27",
+      "topic": "Small footer hierarchy",
+      "quote": "Remove \"Ready to build for your needs\" as a disclaimer large title text, and put it in the small text."
+    },
+    {
+      "id": "F28",
+      "topic": "Full BOM representation",
+      "quote": "I want the same kind of approach for things like filling out cost and showing expense. That can become 1 slide to allow more time for showing animation of the full BOM."
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "provenance": "Retrospective analysis, actual archived render extracts and selected owner feedback. Not contemporaneous hidden reasoning or a controlled user experiment.",
+  "cases": [
+    {
+      "id": "01",
+      "title": "Make the brief observable",
+      "before": "08",
+      "after": "09",
+      "bt": 27,
+      "at": 27,
+      "feedback": [
+        "F03",
+        "F08"
+      ],
+      "category": "Superseded direction",
+      "focus": [
+        0.08,
+        0.15,
+        0.84,
+        0.68
+      ],
+      "observation": "The first TV pass still uses bounded content regions. The later composition gives the word and orange gesture the frame.",
+      "decision": "Translate TV-friendly into free-standing type, a single focal action and open negative space.",
+      "why": "The requested presentation is viewed at playback speed. Layout should communicate priority before the viewer starts reading.",
+      "outtake": "Keep the boxed version as a direction study. It helped expose the mismatch; it is not a universal rule that cards never work.",
+      "lesson": "Convert a style adjective into criteria that another model or designer can evaluate."
+    },
+    {
+      "id": "02",
+      "title": "Give the first point time to land",
+      "before": "06",
+      "after": "07",
+      "bt": 1.8,
+      "at": 2.2,
+      "feedback": [
+        "F02"
+      ],
+      "category": "Corrective timing iteration",
+      "focus": [
+        0.06,
+        0.5,
+        0.88,
+        0.35
+      ],
+      "observation": "The owner asked for slower, progressive first points and faster introductions later in the cut.",
+      "decision": "Introduce points separately with opacity ramps and larger focus; redistribute time instead of uniformly slowing every scene.",
+      "why": "A viewer needs time to identify the visual grammar before the edit accelerates.",
+      "outtake": "The quicker opening is retained as the pacing counterexample. A still alone cannot prove timing; use the linked clips.",
+      "lesson": "Specify onset, duration, hold and where the time is recovered."
+    },
+    {
+      "id": "03",
+      "title": "Show the causal chain, not a workflow label",
+      "before": "17",
+      "after": "18",
+      "bt": 43.2,
+      "at": 35.5,
+      "feedback": [
+        "F09",
+        "F08"
+      ],
+      "category": "Superseded explanatory treatment",
+      "focus": [
+        0.15,
+        0.23,
+        0.7,
+        0.6
+      ],
+      "observation": "A capture/configuration view requires the viewer to infer the automation. The reconstructed scene draws a trigger, then its branches.",
+      "decision": "Use the real BOM-edit example; grow actions slowly first, widen the camera, then accelerate the later branches.",
+      "why": "The animation makes cause and effect visible in sequence, with the newest action as the focus.",
+      "outtake": "Keep the setup screen as source evidence, not as the final hero demonstration. Configured actions are not proof that a fresh run occurred.",
+      "lesson": "Teach the system to explain behavior spatially while retaining the evidence boundary."
+    },
+    {
+      "id": "04",
+      "title": "Make the BOM relationship legible",
+      "before": "17",
+      "after": "18",
+      "bt": 22,
+      "at": 24.4,
+      "feedback": [
+        "F06",
+        "F08",
+        "F28"
+      ],
+      "category": "Superseded capture treatment",
+      "focus": [
+        0.1,
+        0.18,
+        0.8,
+        0.67
+      ],
+      "observation": "The original quantity/cost capture proves an interaction. A full BOM needs a different visual hierarchy to explain how lines accumulate.",
+      "decision": "Keep the verified 32 \u00d7 475.50 = 15,216.00 example, then fold it into an orderly full list and planned total.",
+      "why": "A coherent calculation-to-list transition reduces the amount of UI the viewer must decode.",
+      "outtake": "The screen recording remains reference proof. The later visual is explicitly a cleaned-up representation, not a newly saved transaction.",
+      "lesson": "Simplify presentation without inventing responsiveness, persistence or financial outcomes."
+    },
+    {
+      "id": "05",
+      "title": "Progress needs an owner",
+      "before": "18",
+      "after": "19",
+      "bt": 13.2,
+      "at": 22.2,
+      "feedback": [
+        "F10"
+      ],
+      "category": "Coverage gap corrected",
+      "focus": [
+        0.14,
+        0.27,
+        0.72,
+        0.57
+      ],
+      "observation": "A task view by itself does not make separation of responsibility obvious. The later scene places people beside the work.",
+      "decision": "Animate task assignment, individual progress and a shared meter that reaches 100 percent.",
+      "why": "Responsibility and completion become concrete outcomes instead of abstract project-management promises.",
+      "outtake": "The earlier task view is superseded for storytelling. The illustrated people and completion remain synthetic, not live proof of a finished customer job.",
+      "lesson": "Ask what observable behavior would substantiate the benefit headline."
+    },
+    {
+      "id": "06",
+      "title": "Make the example local to the buyer",
+      "before": "20",
+      "after": "21",
+      "bt": 49.2,
+      "at": 58.7,
+      "feedback": [
+        "F11"
+      ],
+      "category": "Audience-mismatch outtake",
+      "focus": [
+        0.18,
+        0.2,
+        0.64,
+        0.58
+      ],
+      "observation": "Harris County is a plausible demo but the intended recipient is in Florida.",
+      "decision": "Use Hillsborough County and the stored portal/contact resources relevant to that example.",
+      "why": "A familiar jurisdiction reduces the mental translation from product demo to the buyer's work.",
+      "outtake": "Harris County is not factually wrong; it is the weaker audience match for this presentation.",
+      "lesson": "Separate factual correctness from relevance to the specific viewer."
+    },
+    {
+      "id": "07",
+      "title": "Fold details into one useful object",
+      "before": "21",
+      "after": "23",
+      "bt": 63.2,
+      "at": 58.4,
+      "feedback": [
+        "F08",
+        "F24"
+      ],
+      "category": "Superseded information sequence",
+      "focus": [
+        0.18,
+        0.38,
+        0.64,
+        0.45
+      ],
+      "observation": "Showing county fields as separate moments consumes time and fragments a single record.",
+      "decision": "Unfold portal, address, email, phone and forms downward as one compact county entry.",
+      "why": "The viewer recognizes a reusable record, and the saved time funds a more complete service demonstration.",
+      "outtake": "The earlier field-by-field sequence is useful process evidence, but the final hierarchy groups related facts together.",
+      "lesson": "Use grouping and progressive disclosure to reclaim time without deleting the useful information."
+    },
+    {
+      "id": "08",
+      "title": "Fix the baseline, not just the box center",
+      "before": "23",
+      "after": "24",
+      "bt": 4.95,
+      "at": 4.95,
+      "feedback": [
+        "F05",
+        "F25"
+      ],
+      "category": "Corrective typography iteration",
+      "focus": [
+        0.12,
+        0.24,
+        0.76,
+        0.48
+      ],
+      "observation": "Visually centered glyph boxes can still produce uneven alphabetic baselines and inconsistent word spacing.",
+      "decision": "Use shared baselines, common column edges and one high-resolution glyph source through zooms.",
+      "why": "Stable letter relationships make the composition feel intentional, especially during scaling and replacement.",
+      "outtake": "The prior opening is retained for comparison. Baseline and encoded-pixel checks substantiate this correction beyond taste.",
+      "lesson": "Turn a vague alignment complaint into a measurable text-placement problem."
+    },
+    {
+      "id": "09",
+      "title": "Carry completion into the next scene",
+      "before": "22",
+      "after": "23",
+      "bt": 34.7,
+      "at": 34.7,
+      "feedback": [
+        "F12"
+      ],
+      "category": "Discontinuous handoff outtake",
+      "focus": [
+        0.1,
+        0.22,
+        0.8,
+        0.62
+      ],
+      "observation": "The owner identified the 100 percent completion handoff as a jump cut.",
+      "decision": "Fill the orange check and use that same object to travel into the next scene's dot.",
+      "why": "One persistent focal object lets the viewer understand the transition without reorienting.",
+      "outtake": "The earlier cut is an outtake for continuity, not for the meaning of completion. Compare the motion strip as well as the still.",
+      "lesson": "Match the endpoint position, scale and meaning across a scene boundary."
+    },
+    {
+      "id": "10",
+      "title": "Remove the tiny-dot detour",
+      "before": "25",
+      "after": "26",
+      "bt": 12.25,
+      "at": 13,
+      "feedback": [
+        "F13",
+        "F14"
+      ],
+      "category": "Intermediate motion solution",
+      "focus": [
+        0.25,
+        0.22,
+        0.5,
+        0.57
+      ],
+      "observation": "Returning from the zoom to a tiny moving circle adds a second path before the brand mark is formed.",
+      "decision": "Contract directly into the slash, settle it at about 13 seconds and remove the remaining perspective drift.",
+      "why": "The viewer follows one direct transformation into the brand, with fewer stops and less travel.",
+      "outtake": "The dot-matching version solved an earlier seam but became the outtake once the brief called for a more direct reveal.",
+      "lesson": "A technically continuous animation can still contain unnecessary attention shifts."
+    },
+    {
+      "id": "11",
+      "title": "Generalize only when the story widens",
+      "before": "26",
+      "after": "27",
+      "bt": 64,
+      "at": 64,
+      "feedback": [
+        "F15"
+      ],
+      "category": "Scope-of-example correction",
+      "focus": [
+        0.19,
+        0.49,
+        0.2,
+        0.15
+      ],
+      "observation": "Keeping Hillsborough County on the entire organization map can make a general relationship look county-specific.",
+      "decision": "Retain the named close-up, then change the map label to County as the complete structure appears.",
+      "why": "The example stays concrete while the wider diagram communicates a reusable pattern.",
+      "outtake": "The named label is kept in the source version and close-up, but superseded at the general relationship stage.",
+      "lesson": "Control when to be specific and when to abstract."
+    },
+    {
+      "id": "12",
+      "title": "Turn a feature name into a payoff",
+      "before": "27",
+      "after": "29",
+      "bt": 22.4,
+      "at": 22.4,
+      "feedback": [
+        "F16",
+        "F17",
+        "F08"
+      ],
+      "category": "Messaging variant",
+      "focus": [
+        0.15,
+        0.09,
+        0.7,
+        0.25
+      ],
+      "observation": "Feature-led wording tells the viewer what is on screen. The V2 treatment pairs the problem with the payoff.",
+      "decision": "Move from Clear ownership to Who owns this? and Every task. An owner.; retain the visual proof underneath.",
+      "why": "A buyer can connect the animation to a recognizable work problem without reading a product explanation.",
+      "outtake": "V1 is preserved as a valid alternative direction, not erased or called a failed product.",
+      "lesson": "Rewrite the promise while preserving the demonstration and the established style."
+    },
+    {
+      "id": "13",
+      "title": "Make industry adaptability visible",
+      "before": "27",
+      "after": "29",
+      "bt": 98.5,
+      "at": 102.4,
+      "feedback": [
+        "F16",
+        "F26"
+      ],
+      "category": "Audience expansion variant",
+      "focus": [
+        0.18,
+        0.31,
+        0.64,
+        0.38
+      ],
+      "observation": "The solar demonstration alone can make a broader workflow product feel like a single-trade offering.",
+      "decision": "Hold PowerPortals for fixed and flip the orange industry word through seven construction/remodeling trades.",
+      "why": "A stable brand prefix and changing category communicate adaptability with very little copy.",
+      "outtake": "The earlier invitation remains a shorter alternative. Trade names are positioning, not proof that every trade template or external CRM has been tested.",
+      "lesson": "Use a controlled variable to broaden relevance while keeping visual identity stable."
+    },
+    {
+      "id": "14",
+      "title": "Resolve audio perception with provenance",
+      "before": "29",
+      "after": "30",
+      "bt": 103.8,
+      "at": 103.8,
+      "feedback": [
+        "F18",
+        "F19"
+      ],
+      "category": "Owner-replaced audio direction",
+      "focus": [
+        0.22,
+        0.3,
+        0.56,
+        0.4
+      ],
+      "observation": "The owner reported that the music felt blended and supplied a fresh track.",
+      "decision": "Use the supplied Steady Progress WAV as the sole bed, place individual short effects separately and verify source identity.",
+      "why": "A clear music/effects separation makes authorship and mix changes reviewable instead of guessing at the cause of a listening impression.",
+      "outtake": "The previous generated score was superseded. Its source indicates one composed bed plus effects; the archive does not establish that two music beds were accidentally overlaid.",
+      "lesson": "Respect perceptual feedback without inventing a technical diagnosis. Listen to the linked A/B samples; these two stills intentionally match."
+    },
+    {
+      "id": "15",
+      "title": "Spend attention on the brand, not the footer",
+      "before": "30",
+      "after": "31",
+      "bt": 119,
+      "at": 111,
+      "feedback": [
+        "F20",
+        "F21",
+        "F27"
+      ],
+      "category": "Owner-directed attention trade-off",
+      "focus": [
+        0.1,
+        0.72,
+        0.8,
+        0.22
+      ],
+      "observation": "The long disclosure ending holds the large CTA while small phrases change for over twenty seconds.",
+      "decision": "Remove the large CTA, keep the logo central and place the revised wording in a five-second three-line footer.",
+      "why": "The final selected cut becomes 114 seconds instead of 134.5667, while the product remains the dominant closing image.",
+      "outtake": "The long version remains available for reading. The shorter footer trades full read-through time for lower attention cost; no comprehension or legal sufficiency claim is made.",
+      "lesson": "Record the trade-off honestly, including the owner-directed API wording and its evidence limits."
+    },
+    {
+      "id": "16",
+      "title": "Gather information instead of dropping it",
+      "before": "24",
+      "after": "25",
+      "bt": 59.7,
+      "at": 54.95,
+      "feedback": [
+        "F23"
+      ],
+      "category": "Corrective transition iteration",
+      "focus": [
+        0.18,
+        0.14,
+        0.64,
+        0.68
+      ],
+      "observation": "The county details originally clear by fading. That disappearance does not explain why the next network grows from the county icon.",
+      "decision": "Turn the related text orange and gather it into the top icon before the relationship map expands.",
+      "why": "The transition carries the record forward as one object, maintaining a visual link between details and structure.",
+      "outtake": "The fading version is retained as a weaker continuity solution. The before/after timestamps differ because the edit was retimed.",
+      "lesson": "Use a transition to preserve information hierarchy, not merely to hide a cut."
+    },
+    {
+      "id": "17",
+      "title": "Let the play shape become the reply surface",
+      "before": "24",
+      "after": "25",
+      "bt": 88.3,
+      "at": 84.2,
+      "feedback": [
+        "F04",
+        "F22"
+      ],
+      "category": "Corrective transition iteration",
+      "focus": [
+        0.22,
+        0.28,
+        0.56,
+        0.52
+      ],
+      "observation": "The filled play arrow previously expands into a wipe. The revised brief calls for less travel and a dot-to-composer connection.",
+      "decision": "Shrink and round the triangle, land the dot at the composer position, then grow that dot into the reply box.",
+      "why": "The same orange object links automation, customer context and reply action without another full-screen reset.",
+      "outtake": "The expanding triangle remains a valid energetic wipe, but it is superseded for this more continuous handoff.",
+      "lesson": "Specify the destination object and its coordinates before choosing the transition gesture."
+    }
+  ]
+}

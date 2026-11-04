@@ -12,13 +12,13 @@ The public showcase is a portfolio presentation, not an open-source or Creative 
 
 ## What has actually been published
 
-- One original 28-second stage-04 introduction animatic at `media/versions/04.mp4`.
-- Four genuine annotated critique boards and four video-derived silent GIF excerpts in `assets/archive/`.
-- New public-site HTML, CSS, JavaScript and case-study documentation.
+- The original 114-second selected final film, with synchronized owner-produced music and effects, at `media/versions/31.mp4`.
+- The original 28-second stage-04 introduction animatic at `media/versions/04.mp4`.
+- Seventeen authentic annotated critique boards and 34 source-frame extracts, with provenance records.
+- Four silent video-derived GIF excerpts, selected phase strips and public case-study documentation.
+- The existing public-site HTML, CSS, JavaScript and interactive concept studies.
 
-The source paths and matching private/public Git blob hashes for the archived examples are documented in [the provenance register](assets/archive/README.md).
-
-The 114-second selected final MP4 contains the owner's soundtrack but **has not yet been transferred to this public repository** because of a large-file retrieval limitation in the connected GitHub interface. Its absence is not a rights restriction.
+The [public asset manifest](evidence/public-asset-manifest.json) records the newly selected assets and their SHA-256 identities. The [original excerpt register](assets/archive/README.md) preserves the earlier publication record. The final film transfer is complete; no standalone audio is included.
 
 ## Publication boundaries
 

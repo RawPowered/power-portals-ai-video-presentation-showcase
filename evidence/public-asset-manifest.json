@@ -1,0 +1,383 @@
+{
+  "scope": "Selected final film with embedded soundtrack, authentic frame extracts, retrospective critique boards and silent motion excerpts. No standalone audio, raw captures, account records or private history copied.",
+  "assets": [
+    {
+      "file": "media/versions/31.mp4",
+      "sha256": "fd6c1efe63f169d659c1321fe4c2a7f30a408ad6a8e8aefa688421353273ea37",
+      "size_bytes": 15441620,
+      "kind": "Selected final presentation, exact archived export"
+    },
+    {
+      "file": "assets/final-poster.jpg",
+      "sha256": "f739339c06ee6312872901ad7334f683c7f679a235676704533edd156f72e795",
+      "size_bytes": 80177,
+      "kind": "Actual final-film frame at 111 seconds"
+    },
+    {
+      "file": "assets/critiques/01.png",
+      "sha256": "3e801df3c1970dab65be8a826465ea4d4fd9441fd3e9d81544fc289892d847fe",
+      "size_bytes": 271827,
+      "kind": "Retrospective annotation board on archived frames"
+    },
+    {
+      "file": "assets/frames/01-before.jpg",
+      "sha256": "5c29bdec41f386b44f81b179e0b943403ee1fa83569fcccf0bfa2422b4b69a3a",
+      "size_bytes": 65758,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/frames/01-after.jpg",
+      "sha256": "1d2a58807ea047d5d1be6aeee45fdd3acf801d5c8e92b9a94b468748de20bf76",
+      "size_bytes": 29601,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/critiques/02.png",
+      "sha256": "2c275bbc3e9fd2d9d7efbd8c827e89e3fa2037a82aff73d1523e86f68fe96839",
+      "size_bytes": 309975,
+      "kind": "Retrospective annotation board on archived frames"
+    },
+    {
+      "file": "assets/frames/02-before.jpg",
+      "sha256": "2d05926df0b0e73782aa6c4e2a137193de76d2ef651ea155d915c8f9840e5b49",
+      "size_bytes": 71726,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/frames/02-after.jpg",
+      "sha256": "38a7eefdd7cd16284d6ca5d94a16dfc77c57eddb8b340f88b29d4fc26f208440",
+      "size_bytes": 66487,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/critiques/03.png",
+      "sha256": "3ba7dba4841d3711a344ae446c7de3510012e6a54c20d83629d40b9b12c43e48",
+      "size_bytes": 280463,
+      "kind": "Retrospective annotation board on archived frames"
+    },
+    {
+      "file": "assets/frames/03-before.jpg",
+      "sha256": "eb9005f020ad9c68f64098f3c2c80525639952f03023f299e82660b6c43b1788",
+      "size_bytes": 49797,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/frames/03-after.jpg",
+      "sha256": "bbdf0472409d4e201b6495114085430141d77676bca00d96104393e607be5ec4",
+      "size_bytes": 41337,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/critiques/04.png",
+      "sha256": "be86a7d79f9694f1ca6b0529955e1b22f2e8f85e1194f5595169a3e79421ac13",
+      "size_bytes": 320378,
+      "kind": "Retrospective annotation board on archived frames"
+    },
+    {
+      "file": "assets/frames/04-before.jpg",
+      "sha256": "4b1a6916110fc45fd27b20775d0af835a92cd5db0a4e752d49acc9c5f8db9a81",
+      "size_bytes": 45039,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/frames/04-after.jpg",
+      "sha256": "358d5ef5384e1532bb20ed494c452341e25585da4024c7a6829c59478b6a240c",
+      "size_bytes": 74873,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/critiques/05.png",
+      "sha256": "35bcda010cf5c5a0a326b487c7ee0632659b8e1535df02ac7bfcf201c34f3cf6",
+      "size_bytes": 353802,
+      "kind": "Retrospective annotation board on archived frames"
+    },
+    {
+      "file": "assets/frames/05-before.jpg",
+      "sha256": "a848bca564f7c73388d535b12fecf35740b8d41d6aedee2b687b536563582fe6",
+      "size_bytes": 47834,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/frames/05-after.jpg",
+      "sha256": "26bb4944c02c617cd5da1e4eb34a2a36418e7f55d0d05f8a9d6551f4db28aec1",
+      "size_bytes": 99798,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/critiques/06.png",
+      "sha256": "020df154f46f15ca13bd08ae842fdfd4442925c2ed9124cf0a636c556cfa50a3",
+      "size_bytes": 320627,
+      "kind": "Retrospective annotation board on archived frames"
+    },
+    {
+      "file": "assets/frames/06-before.jpg",
+      "sha256": "9a17200134a4afc4d93efa0166ac77fd1f18217032017e8eaa54830505a922c8",
+      "size_bytes": 54463,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/frames/06-after.jpg",
+      "sha256": "48acd759ae77e77fdc1e580335b192db6a1046faea8525a10f8bfcefd364117d",
+      "size_bytes": 64990,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/critiques/07.png",
+      "sha256": "4b4247b96caeb63771b7deb8836f82bb6111765da28c9d2acd268016a0ab638a",
+      "size_bytes": 388533,
+      "kind": "Retrospective annotation board on archived frames"
+    },
+    {
+      "file": "assets/frames/07-before.jpg",
+      "sha256": "991eead0898ade649f36d34510b518ac294908006bcb136962a449e62bcc89ba",
+      "size_bytes": 59967,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/frames/07-after.jpg",
+      "sha256": "f7d89b1a205b5b10788e009f1158cc7a3786eac7c88b587d55ca2f92ee1cd70e",
+      "size_bytes": 100444,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/critiques/08.png",
+      "sha256": "56bbe095c9ddb581f9c7cdd2de1f89855d78b5ce1b9e93053e7a8acc4bf3537a",
+      "size_bytes": 261994,
+      "kind": "Retrospective annotation board on archived frames"
+    },
+    {
+      "file": "assets/frames/08-before.jpg",
+      "sha256": "37deb2105ecf483c7595da0fb7e71d48182b4de508d8f6d3c7c28d1ca5743d49",
+      "size_bytes": 44148,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/frames/08-after.jpg",
+      "sha256": "6f627f9a3760504917bbdafedb11f80818c183fadbfc71594fc991b3d67a1a1b",
+      "size_bytes": 43887,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/critiques/09.png",
+      "sha256": "68a25b957837a9fbcebd3dab63769007665d355d28b09d84dbb4f77c2fa47533",
+      "size_bytes": 205360,
+      "kind": "Retrospective annotation board on archived frames"
+    },
+    {
+      "file": "assets/frames/09-before.jpg",
+      "sha256": "a6a515ebde389700bbc179a9e0d1263e9ff6d994f9d03737e12f0b6577f9cead",
+      "size_bytes": 40446,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/frames/09-after.jpg",
+      "sha256": "454e194b571de8a686075ccc56436d154130bdaf17384895345c147e8fea2901",
+      "size_bytes": 13541,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/critiques/10.png",
+      "sha256": "709f2c4b9a799637991e55a541517e27c32a41be7e48bae60684379b93fb519f",
+      "size_bytes": 171249,
+      "kind": "Retrospective annotation board on archived frames"
+    },
+    {
+      "file": "assets/frames/10-before.jpg",
+      "sha256": "a5a0168e9cf1f6affc5ca293e1384756ab4f91428c11573ccc51b09e7086fbac",
+      "size_bytes": 12743,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/frames/10-after.jpg",
+      "sha256": "e1ae6a50145d7582242db10a61a74e3582381fa11874019d04740cfad58b2341",
+      "size_bytes": 23131,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/critiques/11.png",
+      "sha256": "48d08e0ff30622110645e75c3a04ef084655fcde1d2a6e11b68b290417207ad6",
+      "size_bytes": 475497,
+      "kind": "Retrospective annotation board on archived frames"
+    },
+    {
+      "file": "assets/frames/11-before.jpg",
+      "sha256": "5b14f2ea4c3be4f79dbfdf2b401bb9cbfdc0841419762e8fb430939e987f89e8",
+      "size_bytes": 107904,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/frames/11-after.jpg",
+      "sha256": "f8a16a0d95da2bb0ae52e8b212cbbca90cda02d99c3087220b4bd533b2b47398",
+      "size_bytes": 105026,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/critiques/12.png",
+      "sha256": "f2c55207316436bdc2fda9f1f34bca0dc808f6ea1ef168df8cea0a6693dfc232",
+      "size_bytes": 440582,
+      "kind": "Retrospective annotation board on archived frames"
+    },
+    {
+      "file": "assets/frames/12-before.jpg",
+      "sha256": "846b552bb0af9c24e657e42f006738233459d93d6d2a391f7ca2e1570de538ba",
+      "size_bytes": 96482,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/frames/12-after.jpg",
+      "sha256": "3827f21e0af0e67c6474699ae7c3ce333e017a4e7eed67b6b8fbfd5bb1520f12",
+      "size_bytes": 101629,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/critiques/13.png",
+      "sha256": "ec8363b1b35d5cd880138434c9b887f59eee562c6ad98e2ba3166d9ecde496b7",
+      "size_bytes": 295132,
+      "kind": "Retrospective annotation board on archived frames"
+    },
+    {
+      "file": "assets/frames/13-before.jpg",
+      "sha256": "14cfdccc5c5ebccdf966f8d271e4fc7954e99c773203cb3d551b601298d8cc10",
+      "size_bytes": 42563,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/frames/13-after.jpg",
+      "sha256": "709f73a81d96b59a14cc02d5ad5d5734511c4190b0a7b98c81fad94bd87e83cf",
+      "size_bytes": 59208,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/critiques/14.png",
+      "sha256": "dddd53c0dcc0df0cb20679cab53973a01b0a519284009ebc6b966f0938af3a26",
+      "size_bytes": 218138,
+      "kind": "Retrospective annotation board on archived frames"
+    },
+    {
+      "file": "assets/frames/14-before.jpg",
+      "sha256": "2c3e0c9c9d22f29c62d397b350becd09ad74c9fa79fc5e5224ea5a49798d180b",
+      "size_bytes": 39684,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/frames/14-after.jpg",
+      "sha256": "2c3e0c9c9d22f29c62d397b350becd09ad74c9fa79fc5e5224ea5a49798d180b",
+      "size_bytes": 39684,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/critiques/15.png",
+      "sha256": "ae8a960319b7b793b83f1cb8f8cd01e0ec5178fa422d2c58c52c9eeba2d955d2",
+      "size_bytes": 382060,
+      "kind": "Retrospective annotation board on archived frames"
+    },
+    {
+      "file": "assets/frames/15-before.jpg",
+      "sha256": "962fb4a1d906f169132233d9e018c85a25714ec0b4bf03ac855b03f6033ffdfe",
+      "size_bytes": 76072,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/frames/15-after.jpg",
+      "sha256": "f739339c06ee6312872901ad7334f683c7f679a235676704533edd156f72e795",
+      "size_bytes": 80177,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/critiques/16.png",
+      "sha256": "c818adc18a0faf4f5651e1ded91ccfab5484ec104c2d73d30337531f9102b0bc",
+      "size_bytes": 324957,
+      "kind": "Retrospective annotation board on archived frames"
+    },
+    {
+      "file": "assets/frames/16-before.jpg",
+      "sha256": "cb534bfac3ec415ef48c6ed08de716d4914b751efa6d0b21e8f53dddb05a6a0a",
+      "size_bytes": 101719,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/frames/16-after.jpg",
+      "sha256": "dc7617dd7050e88246ac3e782e186b7397209b1013d186bfb79b017b48596965",
+      "size_bytes": 26398,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/critiques/17.png",
+      "sha256": "368c55907f589a0efcdc90f770b3c0941dd70e38374c4cbe5eaa7ef6bf01cac3",
+      "size_bytes": 273645,
+      "kind": "Retrospective annotation board on archived frames"
+    },
+    {
+      "file": "assets/frames/17-before.jpg",
+      "sha256": "45ba23a45cde56143e898edb818cad75b3be0b65acda2c519c3d46e31c55c54e",
+      "size_bytes": 26902,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/frames/17-after.jpg",
+      "sha256": "fab604d65921492c26701b0873b92e827c28adb1102a1b26a1a7e0cc540b32fb",
+      "size_bytes": 51820,
+      "kind": "Actual frame extraction, unchanged pixels"
+    },
+    {
+      "file": "assets/motion/workflow-build.gif",
+      "sha256": "b71404ecbe141f5856f425e1a823983331002dd53966dc00a6d3cb3c48d153f4",
+      "size_bytes": 895419,
+      "kind": "Silent motion excerpt from archived presentation"
+    },
+    {
+      "file": "assets/motion/direct-slash.gif",
+      "sha256": "62f8ba705b3cefe8c3163437620c6ff8f44fc1a470c9ba22ecb1f1404312b6ea",
+      "size_bytes": 201158,
+      "kind": "Silent motion excerpt from archived presentation"
+    },
+    {
+      "file": "assets/motion/industry-flips.gif",
+      "sha256": "c5e34c355cfaea41810bad0d8b145e504c5a26f000a69d99b189fc140d731bce",
+      "size_bytes": 176385,
+      "kind": "Silent motion excerpt from archived presentation"
+    },
+    {
+      "file": "assets/motion/completion-handoff.gif",
+      "sha256": "e86e26f94891282631cf839deec20dc899589ceabc939b69708a470253bb29be",
+      "size_bytes": 64446,
+      "kind": "Silent motion excerpt from archived presentation"
+    },
+    {
+      "file": "assets/motion/09-phases.png",
+      "sha256": "3304ad9a790fee8934f96ec01595ecd7b71fe6285f460dc3bfe916d9c07837f1",
+      "size_bytes": 127738,
+      "kind": "Extracted before/after motion phases with source timestamps"
+    },
+    {
+      "file": "assets/motion/10-phases.png",
+      "sha256": "cbf6e54bd30e20089d6fc16085faa68e100f535f3471256b034185ddc435fed0",
+      "size_bytes": 87166,
+      "kind": "Extracted before/after motion phases with source timestamps"
+    },
+    {
+      "file": "assets/motion/16-phases.png",
+      "sha256": "177ae8e3f5117ad24006a6329757b24b6901b7254221c6cb27479b15adeef4d1",
+      "size_bytes": 196659,
+      "kind": "Extracted before/after motion phases with source timestamps"
+    },
+    {
+      "file": "assets/motion/17-phases.png",
+      "sha256": "ba59c202c8c9271ab2f66d3cd6db80d75b25675df0bcf8c0d24666989f5bd797",
+      "size_bytes": 142651,
+      "kind": "Extracted before/after motion phases with source timestamps"
+    },
+    {
+      "file": "assets/banner.svg",
+      "sha256": "91b7d04d2df90b7123eba33745552bb9ce0e4aa38cd13696fc8fb47b00b12128",
+      "size_bytes": 1302,
+      "kind": "Public case-study cover graphic"
+    },
+    {
+      "file": "assets/banner.png",
+      "sha256": "4034a273c0d5a8fdec4ecfb44e683f52aae53c06f97a76b705f7373960837d5d",
+      "size_bytes": 46373,
+      "kind": "Public case-study cover graphic"
+    }
+  ]
+}

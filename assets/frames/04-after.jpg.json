@@ -1,0 +1,8 @@
+{
+  "source_stage": "18",
+  "source_filename": "PowerPortals-Workflow-BOM-60s-1080p60.mp4",
+  "source_sha256": "902491422bd7ddd0e40365f1ae3fc3436e41d8c05e6f67780a43257ee66cf371",
+  "time_seconds": 24.4,
+  "method": "FFmpeg frame extraction; no product pixels reconstructed",
+  "frame_sha256": "358d5ef5384e1532bb20ed494c452341e25585da4024c7a6829c59478b6a240c"
+}

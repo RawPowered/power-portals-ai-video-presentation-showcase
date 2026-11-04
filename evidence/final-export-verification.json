@@ -1,0 +1,55 @@
+{
+  "provenance": "Historical production validation for the exact final export included here. Narrow implementation checks; no conversion or audience-study claim.",
+  "results": {
+    "media": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "60/1",
+          "nb_frames": "6840"
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "nb_frames": "5345"
+        }
+      ],
+      "format": {
+        "duration": "114.000000",
+        "size": "15441620"
+      }
+    },
+    "full_media_decode": "passed",
+    "audio": {
+      "input_i": "-21.52",
+      "input_tp": "-8.72",
+      "input_lra": "4.40",
+      "input_thresh": "-31.71",
+      "output_i": "-20.92",
+      "output_tp": "-6.48",
+      "output_lra": "3.90",
+      "output_thresh": "-31.06",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.58"
+    },
+    "sha256": "fd6c1efe63f169d659c1321fe4c2a7f30a408ad6a8e8aefa688421353273ea37",
+    "logo_center": [
+      959.5,
+      499.5
+    ],
+    "footer_hold": [
+      108.25,
+      113.25
+    ],
+    "large_cta": "Absent; only small footer contains ready-to-build wording",
+    "exit": "Fades to clean light background"
+  }
+}

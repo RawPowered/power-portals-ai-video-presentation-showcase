@@ -1,0 +1,8 @@
+{
+  "source_stage": "24",
+  "source_filename": "PowerPortals-Motion-Alignment-108s-1080p60.mp4",
+  "source_sha256": "f52450756dc9d684bae095c364dd9335315456db0c1f8dd53fdb2773e6862294",
+  "time_seconds": 88.3,
+  "method": "FFmpeg frame extraction; no product pixels reconstructed",
+  "frame_sha256": "45ba23a45cde56143e898edb818cad75b3be0b65acda2c519c3d46e31c55c54e"
+}

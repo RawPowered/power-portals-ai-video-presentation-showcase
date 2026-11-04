@@ -1,0 +1,8 @@
+{
+  "source_stage": "30",
+  "source_filename": "PowerPortals-V2-Steady-Progress-1080p60.mp4",
+  "source_sha256": "e976493e4f3c8ebc5b4c809c6aacebc132cace2f6690ce405cb6d9418a14e52f",
+  "time_seconds": 119,
+  "method": "FFmpeg frame extraction; no product pixels reconstructed",
+  "frame_sha256": "962fb4a1d906f169132233d9e018c85a25714ec0b4bf03ac855b03f6033ffdfe"
+}

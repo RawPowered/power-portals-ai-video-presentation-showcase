@@ -1,34 +1,23 @@
-# Publish the original selected final PowerPortals render
+# Final render — published and verified
 
-The project owner confirms that the final rendered video, including the soundtrack they produced, may be publicly displayed. **Do not upload the WAV, MP3, or any standalone audio source file.** Only the completed MP4 with embedded music belongs in the public showcase.
+The complete selected final film is now included. The earlier connector transfer limit was resolved by copying the original local export and publishing it through authenticated Git.
 
-## Exact file
+## Published file
 
-- Private source repository: `RawPowered/powerportals-ai-design-process`
-- Source branch: `codex/design-process`
-- Original path: `media/versions/31.mp4`
-- Intended public path: `media/versions/31.mp4`
-- Original published metadata from the private process archive: 114 seconds, 1920 × 1080, 60 fps; approximately 15.4 MB.
-- This is the selected final cut (stage 31), not the existing 28-second stage-04 introduction.
+- [Watch the final film](../index.html#original-video) · [Open the original MP4](../media/versions/31.mp4)
+- 114 seconds · 1920 × 1080 · 60fps · 6,840 frames.
+- File size: 15,441,620 bytes.
+- SHA-256: `fd6c1efe63f169d659c1321fe4c2a7f30a408ad6a8e8aefa688421353273ea37`.
+- The file is the selected stage-31 final export, copied unchanged, with the owner-produced soundtrack and individual sound effects embedded.
 
-## Transfer the exact MP4 using GitHub's web interface
+The [historical final export check](../evidence/final-export-verification.json) and [public asset manifest](../evidence/public-asset-manifest.json) record its source identity. SHA-256 is a file checksum, distinct from Git’s blob identifier.
 
-The connected GitHub read interface returned empty binary content for the larger MP4, so **the final file has not been copied by the assistant**. Avoid creating an empty placeholder file or pretending the upload succeeded.
+## Compare the process
 
-1. Open the [private source video](https://github.com/RawPowered/powerportals-ai-design-process/blob/codex/design-process/media/versions/31.mp4) while signed into GitHub and download its original bytes.
-2. Open [the public media/versions folder](https://github.com/RawPowered/power-portals-ai-video-presentation-showcase/tree/main/media/versions).
-3. Use **Add file → Upload files**, choose the downloaded `31.mp4` and commit the upload to `main`.
-4. Open the public MP4 after upload and check playback, audio, and that no private customer contact data is exposed.
-5. After the public media file is verified, update the public site's home page to feature it as the primary video, with stage 04 retained as an early comparison.
+The [early 28-second stage-04 animatic](../media/versions/04.mp4) remains available, alongside [17 annotated critiques](critique-index.md), [35 stage summaries](process-timeline.md), and authentic before/after frames. No historical commits or review timestamps were fabricated for this publication.
 
-**Optional, recommended:** Record the SHA-256 hash of the source video before upload and compare it with the downloaded published copy. Do not confuse a local SHA-256 checksum with Git's blob SHA-1.
+## Audio publication boundary
 
-## Why separate audio is excluded
-
-The owner owns the music, but authorizes it here only as part of the synchronized audiovisual presentation. An embedded audio stream in a finished MP4 is allowed; separately downloadable WAV/MP3 masters are not. The public repository includes a GitHub Actions check to reject accidentally committed standalone audio files.
-
-## Status
-
-**Awaiting actual source-binary transfer:** No final-cut MP4 has been added as part of these instructions. The public repository currently contains the original 28-second stage-04 MP4 plus authentic video-derived GIFs and critique frames.
+The owner authorizes public display of the finished MP4 with synchronized music. Separate WAV/MP3 files, music masters and audio-only comparisons are excluded. The existing automated audio policy remains in place.
 
 [Showcase](../index.html) · [Rights policy](../RIGHTS.md)
