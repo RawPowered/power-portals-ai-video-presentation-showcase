@@ -13,7 +13,11 @@ The assignment evolved from explaining a contractor-workflow platform to directi
 
 The private production record contains **35 numbered stages, 24 primary video exports, and 17 annotated critique studies**. Those figures describe the archived process, not 35 completed films or independent usability studies. The selected private cut is approximately **114 seconds**; it is **not redistributed in this public repository**.
 
-### Actual source-work examples
+### Original rendered video
+
+**[Watch the actual stage-04 introduction animatic (28 seconds)](index.html#original-video)** · [Open original MP4](media/versions/04.mp4). This archived render is preserved byte-for-byte from the private repository (`media/versions/04.mp4`, Git blob `d2f0730977198e0a8b00629a5952a8e562015151`). It is an early silent concept, not the 114-second final selection.
+
+## Actual source-work examples
 
 The [original-work gallery](index.html#archive) displays [layout critique 01](assets/archive/critique-01.png), [workflow critique 03](assets/archive/critique-03.png), [motion critique 10](assets/archive/critique-10.png), and [messaging critique 12](assets/archive/critique-12.png). It also includes original silent excerpts of the [direct slash](assets/archive/direct-slash.gif), [workflow build](assets/archive/workflow-build.gif), [industry flips](assets/archive/industry-flips.gif), and [completion handoff](assets/archive/completion-handoff.gif). The [source register](assets/archive/README.md) records matching private/public blob hashes.
 
@@ -37,6 +41,7 @@ This is a process case study, **not** a claim of independent third-party evaluat
 
 ## Explore
 
+- **[Original rendered MP4](index.html#original-video):** Authentic 28-second early introduction animatic.
 - **[Original-work gallery](index.html#archive):** Four authentic source critique boards and four silent original motion excerpts.
 - **[Interactive concept studies](index.html#study):** Lightweight, keyboard-accessible reconstructions with play/pause and scene selection.
 - **[Case study](docs/case-study.md):** Project problem, decisions, iterations, results, and limitations.
@@ -57,7 +62,7 @@ Then open `http://localhost:8000`. The site may also be served as a static GitHu
 
 ## Evidence discipline and limitations
 
-- The complete production record remains **private**; only the eight explicitly documented source excerpts have been published.
+- The complete production record remains **private**; one original early MP4 plus the eight explicitly documented source excerpts have been published.
 - Interactive scenes here are **new conceptual illustrations**, not original export files or before/after proof.
 - Fictional interface elements convey design principles; they do not establish operational functionality.
 - No raw client captures, account records, internal scripts, production manifests, customer addresses, credentials, or original soundtrack are included.
