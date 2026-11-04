@@ -13,7 +13,7 @@ These eight artifacts were copied unchanged from the private repository `RawPowe
 | [Industry flips GIF](industry-flips.gif) | `assets/animations/industry-flips.gif` | `6a519019bfe3cd9472ada2797ee6cca994f608df` |
 | [Completion handoff GIF](completion-handoff.gif) | `assets/animations/completion-handoff.gif` | `1a239239735394f62514e6b0d67153c5094eea9d` |
 
-The four critique PNGs contain genuine extracted frames with retrospective annotation overlays. The four silent GIFs are real motion extracts from original archived video versions, not newly created showcase animations. The full film, soundtracks, raw browser captures, production scripts and internal data are excluded.
+The four critique PNGs contain genuine extracted frames with retrospective annotation overlays. The four silent GIFs are real motion extracts from original archived video versions, not newly created showcase animations. The selected full-length final film has not yet been transferred, though publication with its embedded owner-owned music is authorized. Standalone soundtrack files, raw browser captures, production scripts and internal data remain excluded.
 
 The illustrated task owners in Critique 12 and the job-completion example are synthetic. A configured workflow visual is not proof of a new live automation run. Selected frames were visually inspected for obvious confidential contact details; this is not a comprehensive legal rights audit. Project identity remains visible in these limited public samples.
 
