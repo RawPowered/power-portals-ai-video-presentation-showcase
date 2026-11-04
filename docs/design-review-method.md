@@ -1,6 +1,6 @@
 # Design review method — observation to testable revision
 
-[Return to showcase](../index.html) · [Case study](case-study.md)
+[Return to showcase](../index.html) · [Original-work gallery](../index.html#archive) · [Case study](case-study.md)
 
 The method below is distilled from the private PowerPortals design-process archive. Example instructions are paraphrased teaching patterns, **not purported verbatim conversation transcripts**.
 
