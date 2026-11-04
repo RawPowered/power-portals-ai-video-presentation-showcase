@@ -58,8 +58,8 @@ What the archive supports: iterative human critique, documented revision intent,
 
 What it does **not** support: measured conversion or sales lift, proven cross-platform API compatibility, independent formal evaluation of design quality, or proof that every displayed simulated workflow ran in production.
 
-**Public evidence note:** The homepage now includes [four genuine annotated critique boards and four silent original motion excerpts](../index.html#archive) with [source hashes](../assets/archive/README.md). The four separate interactive concept studies remain new abstractions, **not** original footage.
+**Public evidence note:** The homepage includes [the genuine 28-second stage-04 render](../index.html#original-video) and [four annotated critique boards and four silent original motion excerpts](../index.html#archive) with [source hashes](../assets/archive/README.md). The four separate interactive concept studies remain new abstractions, **not** original footage.
 
 ## Publication approach
 
-Four specific critique boards and four silent animations are included as source examples; the complete commercial and soundtrack, raw captures, and the remainder of the archive stay private. The portfolio demonstrates identifying communication problems, giving bounded directions, reviewing changes and documenting limits.
+The early stage-04 video, four specific critique boards and four silent animations are included as source examples; the complete commercial and soundtrack, raw captures, and the remainder of the archive stay private. The portfolio demonstrates identifying communication problems, giving bounded directions, reviewing changes and documenting limits.
