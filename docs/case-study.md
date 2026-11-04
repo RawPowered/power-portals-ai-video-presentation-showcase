@@ -50,7 +50,7 @@ The private repository documents 35 numbered stage folders, 24 video exports and
 
 ## Other documented production choices
 
-The private critique record also addresses typography baselines, visual continuity between tasks and handoffs, regional relevance, industry adaptability, sound-source provenance, and closing disclosure. The selected final private export is recorded as **114 seconds, 1920 × 1080, 60 fps**, with a five-second compact footer. Its shortened disclosure is an acknowledged readability trade-off, not evidence of better legal or comprehension outcomes.
+The private critique record also addresses typography baselines, visual continuity between tasks and handoffs, regional relevance, industry adaptability, sound-source provenance, and closing disclosure. The selected final export (still in the private repository) is recorded as **114 seconds, 1920 × 1080, 60 fps**, with a five-second compact footer. Its shortened disclosure is an acknowledged readability trade-off, not evidence of better legal or comprehension outcomes.
 
 ## Outcomes and evidence limits
 
@@ -62,4 +62,4 @@ What it does **not** support: measured conversion or sales lift, proven cross-pl
 
 ## Publication approach
 
-The early stage-04 video, four specific critique boards and four silent animations are included as source examples; the complete commercial and soundtrack, raw captures, and the remainder of the archive stay private. The portfolio demonstrates identifying communication problems, giving bounded directions, reviewing changes and documenting limits.
+The stage-04 MP4, four specific critique boards and four silent animations are included as original source examples. The project owner has authorized the finished 114-second video with its embedded owner-produced *Steady Progress* soundtrack for public display. The final render remains unpublished because the connected GitHub binary retrieval interface did not return its file contents, not because the music lacks clearance. The project owner's standalone WAV and MP3 music exports must not be published. Raw captures and internal production/account material remain excluded. The portfolio demonstrates identifying communication problems, giving bounded directions, reviewing changes and documenting limits.
