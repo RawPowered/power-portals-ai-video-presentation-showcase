@@ -47,6 +47,7 @@ This is a process case study, **not** a claim of independent third-party evaluat
 - **[Case study](docs/case-study.md):** Project problem, decisions, iterations, results, and limitations.
 - **[Design-review method](docs/design-review-method.md):** A reusable critique format and sample feedback contracts.
 - **[Rights and publication policy](RIGHTS.md):** Finished MP4s with embedded owner-owned audio are allowed. Separate WAV/MP3 audio releases remain prohibited.
+- **[Publish the final render](docs/publish-final-render.md):** Exact source file and repository upload instructions for the original 114-second video.
 
 ## Run locally
 
