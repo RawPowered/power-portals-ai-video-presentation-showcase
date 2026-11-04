@@ -18,3 +18,7 @@ The four critique PNGs contain genuine extracted frames with retrospective annot
 The illustrated task owners in Critique 12 and the job-completion example are synthetic. A configured workflow visual is not proof of a new live automation run. Selected frames were visually inspected for obvious confidential contact details; this is not a comprehensive legal rights audit. Project identity remains visible in these limited public samples.
 
 [Return to original-work section](../../index.html#archive) · [Rights and limitations](../../RIGHTS.md)
+
+## Original 28-second early render
+
+The public showcase also includes [the genuine stage-04 MP4](../../media/versions/04.mp4), sourced from `media/versions/04.mp4` in the private repository. Git blob SHA: `d2f0730977198e0a8b00629a5952a8e562015151` in both private and public repositories. This is the silent introduction animatic rather than the selected final film.
