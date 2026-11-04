@@ -4,15 +4,15 @@
 
 ## What this repository publishes
 
-The written public case-study text, original browser illustrations, CSS, and JavaScript were newly authored for this showcase. They are intended to demonstrate a design review methodology. No open-source license is granted automatically.
+The written case study, browser concept illustrations, CSS, and JavaScript were newly authored for this showcase. Four annotated critique boards and four silent GIF samples were transferred unchanged from the private archive as specifically selected original-work excerpts. Their source paths and matching blob SHAs appear in [the excerpt register](assets/archive/README.md). No general open-source or third-party redistribution license is granted.
 
-**The interactive examples are reconstructions**, not original PowerPortals video exports, live business interfaces, or captured source evidence.
+**The interactive concept studies are reconstructions.** The eight visuals under `assets/archive/` are authentic video-derived excerpts, not recreated browser scenes or proof of operational integrations.
 
 ## Material excluded on purpose
 
-- Original 24 archived video exports, including the selected 114-second cut.
+- Complete original video exports, including the selected 114-second cut (only limited silent GIF excerpts are present).
 - Owner-supplied *Steady Progress* soundtrack, generated score excerpts, and original sound effects.
-- Customer or account screenshots, employee/project information, addresses, backend or connector details.
+- Raw customer or account screenshots, real employee/project information, addresses, backend or connector details. The named task assignees in critique 12 are fictional.
 - Raw browser captures, production scripts, authentication records, internal manifests, and operating environments.
 - Client-owned or third-party logos, photographs, footage, font files, and assets without verified redistribution permission.
 
@@ -26,4 +26,4 @@ The private record credits Joseph Edwards / RawPowered with briefing, iterative 
 
 Public examples are illustrative. They do not prove live integration, customer deployment, API compatibility, legal sufficiency, usability improvement, conversion lift, or return on investment.
 
-Do not upload the archived film or original screenshot boards publicly until the owner and all relevant rights holders have explicitly cleared the materials, audio, captured records, and associated marks.
+Only these eight individually selected visual excerpts have been published. The complete film, music, additional unreviewed captures, rights-restricted materials, and third-party assets require separate rights/privacy clearance before any further release.
