@@ -1,0 +1,19 @@
+# Keep standalone soundtrack and audio masters out of the public portfolio.
+# Finished presentation MP4s with audio embedded ARE permitted.
+*.wav
+*.mp3
+*.flac
+*.aiff
+*.aif
+*.m4a
+*.aac
+*.ogg
+*.wma
+*.opus
+
+# Private capture/production artifacts
+.env
+.env.*
+*.key
+*.pem
+__pycache__/
